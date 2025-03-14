@@ -1,2 +1,0 @@
-import Urls from "./urls";
-
