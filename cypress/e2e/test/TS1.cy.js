@@ -8,7 +8,7 @@ describe("TS1: Test AccountPage", () => {
   const accountPage = new AccountPage();
   const cartPage = new CartPage();
 
-  before(function () {
+  beforeEach(function () {
     cy.fixture("users.json").as("userData");
     cy.fixture("items.json").as("itemsData");
   });
