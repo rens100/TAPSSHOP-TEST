@@ -17,7 +17,7 @@
   "homepage": "https://github.com/rens100/TAPSSHOP-TEST#readme",
   "description": "",
   "devDependencies": {
-    "@faker-js/faker": "^7.6.0",
+    "@faker-js/faker": "^9.7.0",
     "cypress": "^13.17.0"
   }
 }
